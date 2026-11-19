@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "tailwindcss";
+
+@theme {
+  --color-lugx-blue: #0071f8;
+  --color-lugx-red: #ee626b;
+  --color-lugx-dark: #1e1e1e;
+  --color-lugx-gray: #f7f7f7;
+}
+
+html {
+  scroll-behavior: smooth;
+}
